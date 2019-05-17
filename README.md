@@ -16,6 +16,15 @@ The Challenge
 =========================================
 
 The task at hand is to update the Bike Sharing analysis by using Dask data structures and ecosystem instead of plain pandas. 
+The script will be drafted in python 3. The coding style is PEP8 compliant.
+
+The dependencies are the following:
+
+sklearn >= 0.0
+statsmodels >= 0.9.0
+dask >= 1.2.2
+dask-ml >= 0.12.0
+numpy >= 1.16.2
 
 =========================================
 Background 
